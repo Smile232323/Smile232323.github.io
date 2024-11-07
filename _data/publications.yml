@@ -157,7 +157,7 @@ main:
 
   - title: "Geometric-Aware Calibration Mechanism for Self-Supervised Depth Estimation"
     authors: Yan Wang, Ge Li*, <strong>Ruonan Zhang,</strong> Xingyu Chen and Thomas H. Li
-    conference_short: SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta
+    conference_short: SW - UIC - S3C - DT - PC - M
     conference: IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), 2022
     pdf: 
     Paper: https://ieeexplore.ieee.org/abstract/document/10189737
