@@ -1,0 +1,22 @@
+main:
+
+  - title: "Can Complex-Valued Representation Benefit Point Cloud Place Recognition?"
+    authors: <strong>Ruonan Zhang</strong>, Ge Li*, Wei Gao, and Thomas H. Li
+    conference_short: TITS
+    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024.
+    page:
+    pdf: https://ieeexplore.ieee.org/document/10411825/references#references
+    image: ./assets/img/1.png
+    code:
+    notes: 
+
+  - title: "Sketch-aided Interactive Fusion Point Cloud Place Recognition"
+    authors: <strong>Ruonan Zhang</strong>, Xiaohang Liu, Ge Li*, Thomas H. Li, and Pengjun Zhao
+    conference_short: ICMR
+    conference: ACM International Conference on Multimedia Retrieval (ICMR), 2024.
+    pdf: https://dl.acm.org/doi/10.1145/3652583.3657613
+    code: 
+    page: https://dl.acm.org/doi/10.1145/3652583.3657613
+    bibtex: 
+    notes: 
+    image: ./assets/img/2.png
