@@ -4,7 +4,22 @@ layout: homepage
 
 ## About Me
 
-Assistant Professor in School of Advanced Interdisciplinary Studies, Ningxia University, Zhongwei, China
+**Assistant Professor** in School of Advanced Interdisciplinary Studies, Ningxia University, Zhongwei, China
+
+## Education
+
+- Ph.D.  Sep. 2020 ~ July 2024, School of Computer Science, Peking University, Beijing, China.
+
+- M.S.  Sep. 2014 ~ July 2017, School of Electronic and Computer Engineering, Beijing University, Shenzhen, China.
+
+- B.S.  Sep. 2010 ~ July 2014, School of Computer Science and Technology, Beijing Jiaotong University, Beijing, China.
+
+## Work
+
+- **Algorithm Engineer**  July 2017 ~  Sep. 2018, Huawei, Shenzhen, China.
+
+- **Algorithm Researcher**  Oct. 2018 ~ Aug. 2020, Pengcheng Laboratory, Shenzhen, China.
+
 
 ## Research Interests
 
