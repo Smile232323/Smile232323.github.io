@@ -165,8 +165,87 @@ main:
     page: 
     bibtex: 
     notes: 
-    image: ./assets/img/14.png    
+    image: ./assets/img/14.png
+
+  - title: "StructureFlow: Image Inpainting via Structure-Aware Appearance Flow"
+    authors: Yurui Ren, Xiaoming Yu, <strong>Ruonan Zhang,</strong> Thomas H Li, Shan Liu and Ge Li*
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision (ICCV), 2019
+    pdf: 
+    Paper: https://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_StructureFlow_Image_Inpainting_via_Structure-Aware_Appearance_Flow_ICCV_2019_paper.pdf
+    code: https://github.com/RenYurui/StructureFlow
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/15.png
+
+  - title: "Base-detail image inpainting"
+    authors: <strong>Ruonan Zhang,</strong> Yurui Ren, Jingfei Qiu and Ge Li*
+    conference_short: BMVC
+    conference: 30th British Machine Vision Conference (BMVC), 2019
+    pdf: 
+    Paper: https://www.semanticscholar.org/paper/Base-detail-image-inpainting-Zhang-Ren/f429d3d2c27c0646452ca9a02be2ac026cc28353
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/16.png
   
+  - title: "Second-and High-Order Graph Matching for Correspondence Problems"
+    authors: <strong>Ruonan Zhang</strong> and Wenmin Wang*
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2017
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/document/7954631
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/17.png  
+
+  - title: "An advanced local offset matching strategy for object proposal matching"
+    authors: <strong>Ruonan Zhang</strong> and Wenmin Wang*
+    conference_short: VCIP
+    conference: IEEE Visual Communications and Image Processing (VCIP), 2016
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/document/7805495
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/18.png
+
+  - title: "An MCMC-based prior sub-hypergraph matching in presence of outliers"
+    authors: <strong>Ruonan Zhang</strong> and Wenmin Wang*
+    conference_short: ICPR
+    conference: IEEE International Conference on Pattern Recognition (ICPR), 2016
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/document/7899733
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/19.png
+
+  - title: "A K-Nearest-Neighbor-Pooling method for graph matching"
+    authors: <strong>Ruonan Zhang,</strong> Wenmin Wang* and Ronggang Wang
+    conference_short: ICMEW
+    conference: IEEE International Conference on Multimedia {\&} Expo Workshops (ICMEW), 2016
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/document/7574742
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/20.png    
+
+
+
+
+
+
+
+
 
 
 
