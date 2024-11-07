@@ -230,7 +230,7 @@ main:
   - title: "A K-Nearest-Neighbor-Pooling method for graph matching"
     authors: <strong>Ruonan Zhang,</strong> Wenmin Wang*, and Ronggang Wang
     conference_short: ICMEW
-    conference: IEEE International Conference on Multimedia {\&} Expo Workshops (ICMEW), 2016
+    conference: IEEE International Conference on Multimedia and Expo Workshops (ICMEW), 2016
     pdf: 
     Paper: https://ieeexplore.ieee.org/document/7574742
     code: 
