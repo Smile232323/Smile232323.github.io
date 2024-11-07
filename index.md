@@ -18,6 +18,14 @@ Assistant Professor in School of Advanced Interdisciplinary Studies, Ningxia Uni
     - **Multi - modal Processing and Analysis**
 - **Digital Modeling**
 
+## Teaching
+
+- I am teaching the following courses for undergraduate students
+    - Introduction to Discipline (Fall Semester)
+    - Introduction to Artificial Intelligence（Fall Semester）
+    - Ethics of Artificial Intelligence (Fall Semester)
+    - Principles of Artificial Intelligence (Spring Semester)
+
 ## Projects
 
 - Participant of the National Natural Science Foundation of China (No. 62172021)
@@ -38,14 +46,6 @@ Paper Reviewer: IEEE TIP, IEEE TCSVT, CVPR
 - Outstanding M.S. Graduate and Thesis of Beijing, 2017
 - Outstanding Student of Peking University, 2014 and 2022
 - Outstanding Scientific Research Title of Peking University, 2023
-
-## Teaching
-
-- I am teaching the following courses for undergraduate students
-    - Introduction to Discipline (Fall Semester)
-    - Introduction to Artificial Intelligence（Fall Semester）
-    - Ethics of Artificial Intelligence (Fall Semester)
-    - Principles of Artificial Intelligence (Spring Semester)
 
 
 
