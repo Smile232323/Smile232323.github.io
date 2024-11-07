@@ -1,7 +1,7 @@
 main:
 
   - title: "Can Complex-Valued Representation Benefit Point Cloud Place Recognition?"
-    authors: <strong>Ruonan Zhang</strong>, Ge Li*, Wei Gao and Thomas H. Li
+    authors: <strong>Ruonan Zhang</strong>, Ge Li*, Wei Gao, and Thomas H. Li
     conference_short: TITS
     conference: IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
     page:
@@ -12,7 +12,7 @@ main:
     notes: 
 
   - title: "Sketch-aided Interactive Fusion Point Cloud Place Recognition"
-    authors: <strong>Ruonan Zhang</strong>, Xiaohang Liu, Ge Li*, Thomas H. Li and Pengjun Zhao
+    authors: <strong>Ruonan Zhang</strong>, Xiaohang Liu, Ge Li*, Thomas H. Li, and Pengjun Zhao
     conference_short: ICMR
     conference: ACM International Conference on Multimedia Retrieval (ICMR), 2024
     pdf: 
@@ -36,7 +36,7 @@ main:
     image: ./assets/img/3.png
 
   - title: "ERINet: Effective Rotation Invariant Network for Point Cloud based Place Recognition"
-    authors: Shichen Weng, <strong>Ruonan Zhang</strong> and Ge Li*
+    authors: Shichen Weng, <strong>Ruonan Zhang,</strong> and Ge Li*
     conference_short: VCIP
     conference: IEEE International Conference on Visual Communications and Image Processing (VCIP), 2022
     pdf: 
@@ -48,7 +48,7 @@ main:
     image: ./assets/img/4.png
 
   - title: "PointNetGeM: Simple and Efficient Point Cloud Based Network for Place Recognition"
-    authors: Keli Wen, <strong>Ruonan Zhang</strong> and Ge Li*
+    authors: Keli Wen, <strong>Ruonan Zhang,</strong> and Ge Li*
     conference_short: VCIP
     conference: IEEE International Conference on Visual Communications and Image Processing (VCIP), 2022
     pdf: 
@@ -60,7 +60,7 @@ main:
     image: ./assets/img/5.png
    
   - title: "SparseARFM-SI: Rotary Point Cloud Place Recognition Based on Multi-Resolution and Attention Mechanism"
-    authors: Xiaohang Liu, <strong>Ruonan Zhang</strong>, Jie Wang and Ge Li*
+    authors: Xiaohang Liu, <strong>Ruonan Zhang</strong>, Jie Wang, and Ge Li*
     conference_short: VCIP
     conference: IEEE International Conference on Visual Communications and Image Processing (VCIP), 2022
     pdf: 
@@ -72,7 +72,7 @@ main:
     image: ./assets/img/6.png
 
   - title: "PointOT: Interpretable Geometry-Inspired Point Cloud Generative Model via Optimal Transport"
-    authors: <strong>Ruonan Zhang</strong>, Jingyi Chen, Wei Gao*, Ge Li and Thomas H. Li
+    authors: <strong>Ruonan Zhang</strong>, Jingyi Chen, Wei Gao*, Ge Li, and Thomas H. Li
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022
     pdf: 
@@ -84,7 +84,7 @@ main:
     image: ./assets/img/7.png
 
   - title: "Pointivae:Invertible Variational Autoencoder Framework for 3D Point Cloud Generation"
-    authors: Jingyi Chen, Ge Li*, <strong>Ruonan Zhang</strong>, Thomas H. Li and Wei Gao
+    authors: Jingyi Chen, Ge Li*, <strong>Ruonan Zhang</strong>, Thomas H. Li, and Wei Gao
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing (ICIP), 2022
     pdf: 
@@ -96,7 +96,7 @@ main:
     image: ./assets/img/8.png
 
   - title: "QINet: Decision Surface Learning and Adversarial Enhancement for Quasi-Immune Completion of Diverse Corrupted Point Clouds"
-    authors: <strong>Ruonan Zhang</strong>, Wei Gao*, Ge Li and Thomas H. Li
+    authors: <strong>Ruonan Zhang</strong>, Wei Gao*, Ge Li, and Thomas H. Li
     conference_short: TGRS
     conference: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022
     pdf: 
@@ -108,7 +108,7 @@ main:
     image: ./assets/img/9.png
 
   - title: "An Improved Coarse-To-Fine Motion Estimation Scheme For Lidar Point Cloud Geometry Compression"
-    authors: Jiamin Jin, Ge Li*, Yiting Shao, Fei Song and <strong>Ruonan Zhang</strong>
+    authors: Jiamin Jin, Ge Li*, Yiting Shao, Fei Song, and <strong>Ruonan Zhang</strong>
     conference_short: ICMEW
     conference: IEEE International Conference on Multimedia & Expo Workshops (ICMEW), 2021
     pdf: 
@@ -120,7 +120,7 @@ main:
     image: ./assets/img/10.png
 
   - title: "Vaccine-style-net: Point Cloud Completion in Implicit Continuous Function Space"
-    authors: Wei Yan, <strong>Ruonan Zhang,</strong> Jing Wang, Shan Liu, Thomas H. Li and Ge Li*
+    authors: Wei Yan, <strong>Ruonan Zhang,</strong> Jing Wang, Shan Liu, Thomas H. Li, and Ge Li*
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia (ACM MM), 2020
     pdf: 
@@ -132,7 +132,7 @@ main:
     image: ./assets/img/11.png
 
   - title: "Frequency-Aware Self-Supervised Monocular Depth Estimation"
-    authors: Xingyu Chen, Thomas H. Li, <strong>Ruonan Zhang</strong> and Ge Li*
+    authors: Xingyu Chen, Thomas H. Li, <strong>Ruonan Zhang,</strong> and Ge Li*
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023
     pdf: 
@@ -144,7 +144,7 @@ main:
     image: ./assets/img/12.png
 
   - title: "Self-Supervised Monocular Depth Estimation: Solving the Edge-Fattening Problem"
-    authors: Xingyu Chen, <strong>Ruonan Zhang,</strong> Ji Jiang, Yan Wang, Ge Li* and Thomas H. Li
+    authors: Xingyu Chen, <strong>Ruonan Zhang,</strong> Ji Jiang, Yan Wang, Ge Li,* and Thomas H. Li
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023
     pdf: 
@@ -156,7 +156,7 @@ main:
     image: ./assets/img/13.png
 
   - title: "Geometric-Aware Calibration Mechanism for Self-Supervised Depth Estimation"
-    authors: Yan Wang, Ge Li*, <strong>Ruonan Zhang,</strong> Xingyu Chen and Thomas H. Li
+    authors: Yan Wang, Ge Li*, <strong>Ruonan Zhang,</strong> Xingyu Chen, and Thomas H. Li
     conference_short: SW - UIC - S3C - DT - PC - M
     conference: IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta), 2022
     pdf: 
@@ -168,7 +168,7 @@ main:
     image: ./assets/img/14.png
 
   - title: "StructureFlow: Image Inpainting via Structure-Aware Appearance Flow"
-    authors: Yurui Ren, Xiaoming Yu, <strong>Ruonan Zhang,</strong> Thomas H Li, Shan Liu and Ge Li*
+    authors: Yurui Ren, Xiaoming Yu, <strong>Ruonan Zhang,</strong> Thomas H Li, Shan Liu, and Ge Li*
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision (ICCV), 2019
     pdf: 
@@ -180,7 +180,7 @@ main:
     image: ./assets/img/15.png
 
   - title: "Base-detail image inpainting"
-    authors: <strong>Ruonan Zhang,</strong> Yurui Ren, Jingfei Qiu and Ge Li*
+    authors: <strong>Ruonan Zhang,</strong> Yurui Ren, Jingfei Qiu, and Ge Li*
     conference_short: BMVC
     conference: 30th British Machine Vision Conference (BMVC), 2019
     pdf: 
@@ -192,7 +192,7 @@ main:
     image: ./assets/img/16.png
   
   - title: "Second-and High-Order Graph Matching for Correspondence Problems"
-    authors: <strong>Ruonan Zhang</strong> and Wenmin Wang*
+    authors: <strong>Ruonan Zhang,</strong> and Wenmin Wang*
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2017
     pdf: 
@@ -204,7 +204,7 @@ main:
     image: ./assets/img/17.png  
 
   - title: "An advanced local offset matching strategy for object proposal matching"
-    authors: <strong>Ruonan Zhang</strong> and Wenmin Wang*
+    authors: <strong>Ruonan Zhang,</strong> and Wenmin Wang*
     conference_short: VCIP
     conference: IEEE Visual Communications and Image Processing (VCIP), 2016
     pdf: 
@@ -216,7 +216,7 @@ main:
     image: ./assets/img/18.png
 
   - title: "An MCMC-based prior sub-hypergraph matching in presence of outliers"
-    authors: <strong>Ruonan Zhang</strong> and Wenmin Wang*
+    authors: <strong>Ruonan Zhang,</strong> and Wenmin Wang*
     conference_short: ICPR
     conference: IEEE International Conference on Pattern Recognition (ICPR), 2016
     pdf: 
@@ -228,7 +228,7 @@ main:
     image: ./assets/img/19.png
 
   - title: "A K-Nearest-Neighbor-Pooling method for graph matching"
-    authors: <strong>Ruonan Zhang,</strong> Wenmin Wang* and Ronggang Wang
+    authors: <strong>Ruonan Zhang,</strong> Wenmin Wang*, and Ronggang Wang
     conference_short: ICMEW
     conference: IEEE International Conference on Multimedia {\&} Expo Workshops (ICMEW), 2016
     pdf: 

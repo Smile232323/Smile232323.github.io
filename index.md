@@ -8,22 +8,22 @@ layout: homepage
 
 ## Education
 
-- Ph.D.  Sep. 2020 ~ July 2024, School of Computer Science, Peking University, Beijing, China.
+- **Ph.D.** &nbsp;Sep. 2020 ~ July 2024, School of Computer Science, Peking University, Beijing, China.
 
-- M.S.  Sep. 2014 ~ July 2017, School of Electronic and Computer Engineering, Beijing University, Shenzhen, China.
+- **M.S.** &nbsp;Sep. 2014 ~ July 2017, School of Electronic and Computer Engineering, Beijing University, Shenzhen, China.
 
-- B.S.  Sep. 2010 ~ July 2014, School of Computer Science and Technology, Beijing Jiaotong University, Beijing, China.
+- **B.S.** &nbsp;Sep. 2010 ~ July 2014, School of Computer Science and Technology, Beijing Jiaotong University, Beijing, China.
 
 ## Work
 
-- **Algorithm Engineer**  July 2017 ~  Sep. 2018, Huawei, Shenzhen, China.
+- **Algorithm Engineer**  &nbsp;July 2017 ~  Sep. 2018, Huawei, Shenzhen, China.
 
-- **Algorithm Researcher**  Oct. 2018 ~ Aug. 2020, Pengcheng Laboratory, Shenzhen, China.
+- **Algorithm Researcher**  &nbsp;Oct. 2018 ~ Aug. 2020, Pengcheng Laboratory, Shenzhen, China.
 
 
 ## Research Interests
 
-- **Computer Vision, Machine Learning, and Deep Learning**
+- **Computer Vision , Machine Learning, and Deep Learning**
     - **3D Point Cloud Processing and Analysis**
         - Point Cloud Inpainting
         - point cloud generation
