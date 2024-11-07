@@ -8,17 +8,17 @@ layout: homepage
 
 ## Education
 
-- **Ph.D.** &nbsp;Sep. 2020 ~ July 2024, School of Computer Science, Peking University, Beijing, China.
+- **Ph.D.** &nbsp;&nbsp;Sep. 2020 ~ July 2024, School of Computer Science, Peking University, Beijing, China.
 
-- **M.S.** &nbsp;Sep. 2014 ~ July 2017, School of Electronic and Computer Engineering, Beijing University, Shenzhen, China.
+- **M.S.** &nbsp;&nbsp;Sep. 2014 ~ July 2017, School of Electronic and Computer Engineering, Beijing University, Shenzhen, China.
 
-- **B.S.** &nbsp;Sep. 2010 ~ July 2014, School of Computer Science and Technology, Beijing Jiaotong University, Beijing, China.
+- **B.S.** &nbsp;&nbsp;Sep. 2010 ~ July 2014, School of Computer Science and Technology, Beijing Jiaotong University, Beijing, China.
 
 ## Work
 
-- **Algorithm Engineer**  &nbsp;July 2017 ~  Sep. 2018, Huawei, Shenzhen, China.
+- **Algorithm Engineer**  &nbsp;&nbsp;July 2017 ~  Sep. 2018, Huawei, Shenzhen, China.
 
-- **Algorithm Researcher**  &nbsp;Oct. 2018 ~ Aug. 2020, Pengcheng Laboratory, Shenzhen, China.
+- **Algorithm Researcher**  &nbsp;&nbsp;Oct. 2018 ~ Aug. 2020, Pengcheng Laboratory, Shenzhen, China.
 
 
 ## Research Interests
