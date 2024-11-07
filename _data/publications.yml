@@ -5,8 +5,9 @@ main:
     conference_short: TITS
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024.
     page:
-    pdf: https://ieeexplore.ieee.org/document/10411825/references#references
+    pdf: 
     image: ./assets/img/1.png
+    Paper: https://ieeexplore.ieee.org/document/10411825
     code:
     notes: 
 
@@ -14,9 +15,10 @@ main:
     authors: <strong>Ruonan Zhang</strong>, Xiaohang Liu, Ge Li*, Thomas H. Li, and Pengjun Zhao
     conference_short: ICMR
     conference: ACM International Conference on Multimedia Retrieval (ICMR), 2024.
-    pdf: https://dl.acm.org/doi/10.1145/3652583.3657613
+    pdf: 
+    Paper: https://dl.acm.org/doi/abs/10.1145/3652583.3657613?download=true
     code: 
-    page: https://dl.acm.org/doi/10.1145/3652583.3657613
+    page: 
     bibtex: 
     notes: 
     image: ./assets/img/2.png

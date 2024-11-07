@@ -39,6 +39,14 @@ Paper Reviewer: IEEE TIP, IEEE TCSVT, CVPR
 - Outstanding Student of Peking University, 2014 and 2022
 - Outstanding Scientific Research Title of Peking University, 2023
 
+## Teaching
+
+- I am teaching the following courses for undergraduate students
+    - Introduction to Discipline (Fall Semester)
+    - Introduction to Artificial Intelligence（Fall Semester）
+    - Ethics of Artificial Intelligence (Fall Semester)
+    - Principles of Artificial Intelligence (Spring Semester)
+
 
 
 {% include_relative _includes/publications.md %}
