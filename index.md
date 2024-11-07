@@ -63,7 +63,12 @@ Paper Reviewer: IEEE TIP, IEEE TCSVT, CVPR
 - Outstanding Scientific Research Title of Peking University, 2023
 
 
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## China Patents
+[1]  Hong Li, **Ruonan Zhang,** “A method,Device,and Equipment for quantum state point cloud feature extraction”, ZL202310732308.4, Granted
+
+[2]  Ge Li, **Ruonan Zhang,** “A method based on geometric-inspired point cloud generation.”, ZL202110731635.9, Granted
+
