@@ -3,7 +3,7 @@ main:
   - title: "Can Complex-Valued Representation Benefit Point Cloud Place Recognition?"
     authors: <strong>Ruonan Zhang</strong>, Ge Li*, Wei Gao, and Thomas H. Li
     conference_short: TITS
-    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2024.
+    conference: IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
     page:
     pdf: 
     image: ./assets/img/1.png
@@ -14,7 +14,7 @@ main:
   - title: "Sketch-aided Interactive Fusion Point Cloud Place Recognition"
     authors: <strong>Ruonan Zhang</strong>, Xiaohang Liu, Ge Li*, Thomas H. Li, and Pengjun Zhao
     conference_short: ICMR
-    conference: ACM International Conference on Multimedia Retrieval (ICMR), 2024.
+    conference: ACM International Conference on Multimedia Retrieval (ICMR), 2024
     pdf: 
     Paper: https://dl.acm.org/doi/abs/10.1145/3652583.3657613?download=true
     code: 
@@ -22,3 +22,28 @@ main:
     bibtex: 
     notes: 
     image: ./assets/img/2.png
+
+  - title: "A Point is A Wave: Point-Wave Network for Place Recognition"
+    authors: Ge Li, <strong>Ruonan Zhang*</strong>
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/document/10094873
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/3.png
+
+  - title: "ERINet: Effective Rotation Invariant Network for Point Cloud based Place Recognition"
+    authors: Shichen Weng, <strong>Ruonan Zhang</strong>, Ge Li*
+    conference_short: VCIP
+    conference: IEEE International Conference on Visual Communications and Image Processing (VCIP), 2022
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/document/10008830
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/4.png
+   
