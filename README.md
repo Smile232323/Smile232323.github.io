@@ -69,8 +69,8 @@ email: yourname (at) example.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: ******
+description: ******
 canonical: https://your_domain/
 
 # Links 
