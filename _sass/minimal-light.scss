@@ -601,3 +601,23 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.jump-link {
+  font-size: 1.3rem;
+  text-decoration: none;
+  color:#043361;
+}
+
+.jump-link:hover {
+  color:#444;
+}
+
+@media (prefers-color-scheme: dark) {
+.jump-link {
+      color:#3caee4;
+  }
+
+.jump-link:hover {
+      color:#069;
+  }
+}
