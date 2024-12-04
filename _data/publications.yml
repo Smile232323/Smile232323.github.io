@@ -1,5 +1,18 @@
 main:
+  - title: "A Quantum-Inspired Framework in Leader-Servant Mode for Large-Scale Multi-Modal Place Recognition"
+    authors: <strong>Ruonan Zhang,</strong> Ge Li*, Member, IEEE, Wei Gao, Senior Member, IEEE, and Shan Liu
+    conference_short: TITS
+    conference: IEEE Transactions on Intelligent Transportation Systems (TITS), 2024
 
+    pdf: 
+    Paper: https://ieeexplore.ieee.org/document/10767864
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/21.png    
+  
+  
   - title: "Can Complex-Valued Representation Benefit Point Cloud Place Recognition?"
     authors: <strong>Ruonan Zhang</strong>, Ge Li*, Wei Gao, and Thomas H. Li
     conference_short: TITS
@@ -238,6 +251,7 @@ main:
     bibtex: 
     notes: 
     image: ./assets/img/20.png    
+
 
 
 
