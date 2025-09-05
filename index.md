@@ -43,11 +43,10 @@ layout: homepage
 
 ## Projects
 
+- Principal Investigator of the National Natural Science Foundation of China (No. 62506179)
+- Principal Investigator of Yinchuan City Basic Research Project (No. YCHT2025241)
 - Participant of the National Natural Science Foundation of China (No. 62172021)
-Participant of the National Science and Technology Major (2020AAA0103500)
-
-- Participant of the National Natural Science Foundation of China (No. 62172021)
-Participant of the National Science and Technology Major (2020AAA0103500)
+- Participant of the National Science and Technology Major (2020AAA0103500)
 
 ## Academic Activities
 
